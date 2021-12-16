@@ -1,4 +1,4 @@
-# Responsive website made just to practice CSS Grid skills.
+# Responsive website made to practice CSS Grid skills.
 
 Live site: https://testimonial-grid-website-192.netlify.app
 
