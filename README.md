@@ -1,4 +1,4 @@
-# Responsive website made to practice CSS Grid skills
+# Testimonial Grid website made with CSS Grid
 
 Live site: https://testimonial-grid-website-192.netlify.app
 
